@@ -1,0 +1,22 @@
+.japanese {
+  letter-spacing: 0.2em;
+}
+
+a {
+  text-decoration: underline;
+  text-decoration-color: black;
+  color: inherit;
+}
+
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+  text-decoration-color: black;
+}
+
+.breadcrumbs {
+  position: absolute;
+  top: 1rem;
+  left: 1rem;
+}
